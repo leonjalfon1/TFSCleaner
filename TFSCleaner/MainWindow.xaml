@@ -389,6 +389,6 @@
             <Label Content="TFS Connection:"></Label>
             <Label x:Name="tfsConnection" Cursor="Hand" Content="" Foreground="#FF000CFF" MouseLeftButtonDown="tfsConnection_MouseLeftButtonDown_1"/>
         </StackPanel>
-        <Label Content="Shai Raiten Blog" HorizontalAlignment="Right" Margin="0,5,5,0" VerticalAlignment="Top" Foreground="#FF003AFF" MouseDown="Label_MouseDown"/>
+        <Label Content="TFS Cleaner" HorizontalAlignment="Right" Margin="0,5,5,0" VerticalAlignment="Top" Foreground="#FF003AFF" MouseDown="Label_MouseDown"/>
     </Grid>
 </Window>
